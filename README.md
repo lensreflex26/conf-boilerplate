@@ -33,9 +33,9 @@ By default, we have the following sections:
 
 * *About* - to describe what's the main goal of your event.
 * *Location* - to show where it's going to happen through Google Maps.
-* *Speakers* - to list information about speakers.
+* *Speakers* - to give information about speakers.
 * *Schedule* - to show the agenda.
-* *Sponsors* - to show the brand of your sponsors.
+* *Sponsors* - to highlight the brand of your sponsors.
 * *Partners* - to show the brand of your partners.
 
 *P.S. 1: There is no integration with any registration and/or payment system. For this reason, we recommend [Eventick](http://eventick.com.br/).*
